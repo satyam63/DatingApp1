@@ -1,4 +1,6 @@
 using API.Data;
+using API.Interface;
+using API.Services;
 using Microsoft.EntityFrameworkCore;
 
 
@@ -14,7 +16,9 @@ builder.Services.AddDbContext<DataContext>(opt =>
 }
 );
 
+
 builder.Services.AddCors();
+builder.Services.AddScoped<iTokenService, TokenService>();
 
 var app = builder.Build();
 

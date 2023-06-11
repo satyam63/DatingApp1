@@ -61,3 +61,8 @@ C:\Users\Satyam nishad\DatingApp\API\bin\Debug\net7.0\Humanizer.dll
 C:\Users\Satyam nishad\DatingApp\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Satyam nishad\DatingApp\API\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\Satyam nishad\DatingApp\API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Satyam nishad\DatingApp\api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Satyam nishad\DatingApp\api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Satyam nishad\DatingApp\api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Satyam nishad\DatingApp\api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Satyam nishad\DatingApp\api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll

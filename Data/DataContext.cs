@@ -11,5 +11,10 @@ namespace API.Data
 
 
         public DbSet<AppUser> Users { get; set; }
+
+        internal Task<bool> AnyAsync(Func<object, bool> value)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
